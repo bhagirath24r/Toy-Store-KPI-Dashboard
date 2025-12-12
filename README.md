@@ -1,0 +1,2 @@
+# Toy-Store-KPI-Dashboard
+Sales &amp; inventory data for a fictitious toy store chain in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location. 
